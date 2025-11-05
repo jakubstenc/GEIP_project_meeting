@@ -601,6 +601,15 @@ Using pollen metabarcoding and image recognition.
 
 ## And more...
 
+::::: {layout="[[0.5], [0.5]]"}
+::: {.fragment top="70" height="400"}
+-   Parasites!
+:::
+
+::: {.fragment top="70" height="400"}
+![](images/Pasted image (9).png)
+:::
+:::::
 ## What now?
 
 <div>
