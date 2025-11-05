@@ -1,0 +1,9 @@
+project:
+  title: "GEIP_project_pesentation"
+  type: website
+  output-dir: docs
+format:
+  html:
+    css: techroom/p.css
+resources:
+  - images/video_intro_reduced_shorter.mp4
