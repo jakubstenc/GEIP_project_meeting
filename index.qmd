@@ -254,9 +254,8 @@ nets <- paste("net_hod_", unique(net1124_edited$hod), sep = "")
 ## Introduction - deposition
 
 ::::: r-stack
-::: fragment
 ![](images/Blizna_Suc_pra_2_round.png){fig-align="center" width="600"}
-:::
+
 
 ::: fragment
 ![](images/Blizna_Suc_pra_3.png){fig-align="center" width="600"}
